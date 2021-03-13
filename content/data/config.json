@@ -28,5 +28,6 @@
             "url": "/faq",
             "style": "link"
         }
-    ]
+    ],
+    "domain": "https://blog-cd9a3.netlify.app"
 }
